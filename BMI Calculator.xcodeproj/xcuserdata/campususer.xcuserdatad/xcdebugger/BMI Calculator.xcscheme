@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "6329793C1E640C29001B3BD2"
+               BlueprintIdentifier = "63F9B66B1EBFF755007BD8F4"
                BuildableName = "BMI Calculator.app"
                BlueprintName = "BMI Calculator"
                ReferencedContainer = "container:BMI Calculator.xcodeproj">
@@ -28,21 +28,11 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "632979501E640C2B001B3BD2"
-               BuildableName = "BMI CalculatorTests.xctest"
-               BlueprintName = "BMI CalculatorTests"
-               ReferencedContainer = "container:BMI Calculator.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6329793C1E640C29001B3BD2"
+            BlueprintIdentifier = "63F9B66B1EBFF755007BD8F4"
             BuildableName = "BMI Calculator.app"
             BlueprintName = "BMI Calculator"
             ReferencedContainer = "container:BMI Calculator.xcodeproj">
@@ -65,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6329793C1E640C29001B3BD2"
+            BlueprintIdentifier = "63F9B66B1EBFF755007BD8F4"
             BuildableName = "BMI Calculator.app"
             BlueprintName = "BMI Calculator"
             ReferencedContainer = "container:BMI Calculator.xcodeproj">
@@ -84,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6329793C1E640C29001B3BD2"
+            BlueprintIdentifier = "63F9B66B1EBFF755007BD8F4"
             BuildableName = "BMI Calculator.app"
             BlueprintName = "BMI Calculator"
             ReferencedContainer = "container:BMI Calculator.xcodeproj">

@@ -9,7 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    
     //MARK: properties
     @IBOutlet weak var HeightTextField: UITextField!
     @IBOutlet weak var WeightTextField: UITextField!
@@ -21,12 +21,12 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
-
+    
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-
+    
     //MARK: actions
     @IBAction func UnitSwitch(_ sender: UISwitch) {
         if (UnitSwitchOutlet.isOn) {
@@ -85,7 +85,7 @@ class ViewController: UIViewController {
             ResultLabel.text = "Obese Class III (Very Severe)";
             ResultImageView.image = UIImage (named:"obese3.png")
         }
-    
+        
         
     }
     
